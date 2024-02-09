@@ -1,0 +1,12 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+	cd (moves you from one directory within another directory.  Ex. From users, cd pydecal
+2. Do you have pets? What kind?
+	Nope, but I wish I had a swiss Shepard 
+3. If you run across an error, what would your first course of action be?
+	retrace my steps and figure out line by line if I made a mistake 
+4. Funniest thing that happened to you in high school.
+	Don't really have one specfic thing but a "fun" fact about me is I managed to accidently get drunk when I was 6 on champagne at a wedding. 
+5. What is a python script? (Keep it simple)
+	Lines of code that a computer scans and outputs something
+
+
